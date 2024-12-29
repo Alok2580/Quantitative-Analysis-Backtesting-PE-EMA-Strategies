@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements and compares two financial strategies:  
+This project implements and compares two financial strategies 
 1. **Fundamental Strategy (P/E Ratio)**  
 2. **EMA Crossover Strategy**
 
