@@ -1,5 +1,4 @@
 ---
-
 # Quantitative-Analysis-Backtesting-PE-EMA-Strategies
 
 ## Overview
