@@ -76,6 +76,7 @@ public class Main {
                 fundamentalStrategy.getPriceMap(),
                 allStockData
         );
+
         fundamentalBacktester.runBacktest();
         Map<java.time.LocalDate, Double> fundamentalStrategyReturns = fundamentalBacktester.getStrategyReturns();
 
