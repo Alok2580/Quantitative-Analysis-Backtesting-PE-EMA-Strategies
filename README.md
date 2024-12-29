@@ -1,5 +1,3 @@
-Here's the updated README with the correct project name:
-
 ---
 
 # Quantitative-Analysis-Backtesting-PE-EMA-Strategies
