@@ -1,9 +1,8 @@
----
 # Quantitative-Analysis-Backtesting-PE-EMA-Strategies
 
 ## Overview
 
-This project implements and compares two financial strategies 
+This project implements and compares two financial strategies:  
 1. **Fundamental Strategy (P/E Ratio)**  
 2. **EMA Crossover Strategy**
 
@@ -14,10 +13,10 @@ The goal is to assess the effectiveness of these strategies through backtesting,
 - **Part 1: Fundamental Strategy (P/E Ratio)**
   - Selects stocks based on their P/E ratio.
   - Monthly rebalancing based on updated P/E values.
-  - Backtests strategy and evaluates performance metrics like Sharpe Ratio and Sortino Ratio.
+  - Backtests the strategy and evaluates performance metrics such as the Sharpe Ratio and Sortino Ratio.
 
 - **Part 2: EMA Crossover Strategy**
-  - Implements the EMA Crossover strategy with short-term and long-term EMAs.
+  - Implements the EMA Crossover strategy using short-term and long-term EMAs.
   - Compares performance with the Fundamental Strategy.
 
 ## Tools & Libraries
@@ -36,7 +35,7 @@ Stock data and market returns are loaded from CSV files:
 
 1. Clone the repository:
    ```bash
-  https://github.com/Alok2580/Quantitative-Analysis-Backtesting-PE-EMA-Strategies.git
+   git clone https://github.com/Alok2580/Quantitative-Analysis-Backtesting-PE-EMA-Strategies.git
    ```
 
 2. Compile and run the project in your Java environment.
