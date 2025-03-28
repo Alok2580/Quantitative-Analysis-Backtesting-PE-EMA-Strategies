@@ -36,7 +36,7 @@ Stock data and market returns are loaded from CSV files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Quantitative-Analysis-Backtesting-PE-EMA-Strategies.git
+  https://github.com/Alok2580/Quantitative-Analysis-Backtesting-PE-EMA-Strategies.git
    ```
 
 2. Compile and run the project in your Java environment.
